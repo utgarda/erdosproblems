@@ -8,3 +8,6 @@ scripts/problem011_hs
 scripts/run_extended
 scripts/RunExtended.hi
 scripts/RunExtended.o
+scripts/run_max
+scripts/RunMax.hi
+scripts/RunMax.o
