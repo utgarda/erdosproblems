@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# Haskell build artifacts
+*.hi
+*.o
+scripts/problem011_hs
