@@ -113,10 +113,11 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["A001220", "A377587"]
+  oeis: ["A001220", "A068781", "A377587", "possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "A068781 entries m == 2 (mod 4) characterize even non-representable numbers m+2, related to Erdős's weaker variant for integers not divisible by 4"
   tags: ["number theory", "additive basis"]
 
 - number: "12"
