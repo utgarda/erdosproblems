@@ -5,3 +5,6 @@ __pycache__/
 *.hi
 *.o
 scripts/problem011_hs
+scripts/run_extended
+scripts/RunExtended.hi
+scripts/RunExtended.o
